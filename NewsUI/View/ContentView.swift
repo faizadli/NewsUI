@@ -13,7 +13,7 @@ struct ContentView: View {
         NavigationView{
             
             Home()
-                .navigationBarTitle("News")
+                .navigationBarTitle("News 62")
         }
     }
 }
